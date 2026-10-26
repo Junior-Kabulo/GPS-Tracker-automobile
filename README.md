@@ -189,7 +189,7 @@ Project status will be updated as each stage is completed.
 
 **Junior Kabulo Sungu**
 
-Engineering Student — Mechatronics and Embedded Systems
+Engineering Student — Mechatronics 
 
 Areas of work: PCB design, embedded systems, GNSS positioning, and GSM/GPRS communication.
 
